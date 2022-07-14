@@ -12,6 +12,13 @@ public class o9ternary {
 		System.out.println("can drive :"+ candrive);
 		System.out.println("can rent a car :"+ canrentacar);
 		
+		
+		System.out.println();
+		String result= candrive ?(haslisence? "Has a lisence can drive":"Not has lisence can not drive"):"under 18 so can not drive";
+		System.out.println(result);
+		
 	}
+	
+	
 
 }
