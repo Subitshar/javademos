@@ -1,5 +1,5 @@
 
-public class casting {
+public class o2casting {
 
 	public static void main(String[] args) {
 		int a;

@@ -1,5 +1,5 @@
 
-public class ternary {
+public class o9ternary {
 
 	public static void main(String[] args) {
 		int age=19;

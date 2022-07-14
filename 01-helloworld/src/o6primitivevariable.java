@@ -1,5 +1,5 @@
 
-public class primitivevariable {
+public class o6primitivevariable {
 
 	public static void main(String[] args) {
 		//Print minimum and maximum value of data

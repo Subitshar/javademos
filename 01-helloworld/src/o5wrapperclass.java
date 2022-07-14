@@ -1,5 +1,5 @@
 
-public class wrapperclass {
+public class o5wrapperclass {
 
 	public static void main(String[] args) {
 		int x=2;

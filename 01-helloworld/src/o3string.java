@@ -1,5 +1,5 @@
 
-public class string {
+public class o3string {
 
 	public static void main(String[] args) {
 		

@@ -1,5 +1,5 @@
 
-public class condition {
+public class o8condition {
 
 	public static void main(String[] args) {
 		boolean ismale=false;

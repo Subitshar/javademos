@@ -1,5 +1,5 @@
 
-public class operator {
+public class o7operator {
 
 	public static void main(String[] args) {
 		int result=1+9;

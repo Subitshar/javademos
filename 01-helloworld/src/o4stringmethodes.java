@@ -1,5 +1,5 @@
 
-public class stringmethodes {
+public class o4stringmethodes {
 
 	public static void main(String[] args) {
 		String s="hai hello how are you";
